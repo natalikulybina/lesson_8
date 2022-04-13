@@ -17,23 +17,6 @@
   transform: translate(-50%, -50%);
 }
 
-.title {
-  position: static;
-  height: 20px;
-  margin: 0px;
-  font-family: 'Inter_black';
-  font-weight: 900;
-  font-size: 34px;
-  line-height: 20px;
-  color: #000000;
-  margin-bottom: 32px;
-}
-
-.title::after {
-  content: "(Variants)";
-  color: #FF5555;
-}
-
 .card {
   position: static;
   padding: 32px;
@@ -133,7 +116,7 @@
 }
 
 .btn_grey {
-  background: #F0F1F4;  
+  background: #F0F1F4;
   color: #2C2D2E;
   margin-right: 0px;
 }
