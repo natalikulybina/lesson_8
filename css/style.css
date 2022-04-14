@@ -109,7 +109,7 @@
   margin: 0px 0px 32px 0px;
 }
 
-.btn_blue {
+.btn {
   cursor: pointer;
   font-family: 'Inter_reg', sans-serif;
   font-weight: 400;
@@ -123,13 +123,13 @@
   margin-right: 12px;
 }
 
-.btn_grey {
+.btn--grey {
   background: #F0F1F4;
   color: #2C2D2E;
   margin-right: 0px;
 }
 
-.btn {
+.btn--link {
   margin-left: 81px;
   color: #3E56AA;
   background: #FFFFFF;
